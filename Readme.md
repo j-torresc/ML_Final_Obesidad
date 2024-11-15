@@ -9,9 +9,10 @@ Desarrollar un modelo de predicción de obesidad optimizado y validado, aplicand
 * Jheison Torres
 
 
-### El proyecto se distribuye en 2 grandes carpetas de la siguiente manera:
+### El proyecto se distribuye en 3 grandes carpetas de la siguiente manera:
 * **Cuadernos:** Se alojan los archivos .ipynb con el desarrollo del proyeto final.
 * **Datos:** Se aloja el dataset utilizado para los modelos de predicción.
+* **Documentación** Contiene el análisis, procedimiento y conclusiones del proyecto.
 
 
 
